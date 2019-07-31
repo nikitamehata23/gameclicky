@@ -79,6 +79,7 @@ class App extends Component {
       });
     }
     this.shuffleChars();
+    console.log ("You win !!");
   };
 
   reset = () => {
