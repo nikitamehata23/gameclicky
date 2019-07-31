@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gameclicky/static/css/main.02bfe71e.chunk.css",
-    "main.js": "/gameclicky/static/js/main.cda0f6bf.chunk.js",
-    "main.js.map": "/gameclicky/static/js/main.cda0f6bf.chunk.js.map",
+    "main.js": "/gameclicky/static/js/main.de90edb6.chunk.js",
+    "main.js.map": "/gameclicky/static/js/main.de90edb6.chunk.js.map",
     "runtime~main.js": "/gameclicky/static/js/runtime~main.a2d10d8f.js",
     "runtime~main.js.map": "/gameclicky/static/js/runtime~main.a2d10d8f.js.map",
     "static/js/2.5cb12968.chunk.js": "/gameclicky/static/js/2.5cb12968.chunk.js",
     "static/js/2.5cb12968.chunk.js.map": "/gameclicky/static/js/2.5cb12968.chunk.js.map",
     "index.html": "/gameclicky/index.html",
-    "precache-manifest.4c72062a680dd48f809328746d79be9c.js": "/gameclicky/precache-manifest.4c72062a680dd48f809328746d79be9c.js",
+    "precache-manifest.9d2912aa78f631a01e6c50be132c0ca2.js": "/gameclicky/precache-manifest.9d2912aa78f631a01e6c50be132c0ca2.js",
     "service-worker.js": "/gameclicky/service-worker.js",
     "static/css/main.02bfe71e.chunk.css.map": "/gameclicky/static/css/main.02bfe71e.chunk.css.map",
     "static/media/gameover.css": "/gameclicky/static/media/winner.72d372c3.jpg"
