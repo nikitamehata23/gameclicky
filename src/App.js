@@ -39,6 +39,7 @@ class App extends Component {
         this.setState({ selected: [...this.state.selected, name] });
       } else {
         this.setState({ msg: 'GAME OVER', gameover: true })
+        console.log("Oops!! You Guess wrong , Game-Over");
         this.reset();
         setTimeout(() => {
           this.setState({ countdown: 3 });
@@ -57,7 +58,7 @@ class App extends Component {
         score: 0,
         gameover: false
       });
-    }
+    }console.log("clicked");
   }
 
   increment = () => {
@@ -66,6 +67,7 @@ class App extends Component {
       score: newScore,
       msg: 'You guessed correctly!'
     });
+    console.log("correct guess");
     if (newScore >= this.state.highScore) {
       this.setState({ highScore: newScore });
     }
