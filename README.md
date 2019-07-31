@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<h1>The Clickster<h1>
+<h1>Clicky-Clicky<h1>
 
 <h2>Overview</h2>
 <ul>
