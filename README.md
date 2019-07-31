@@ -1,10 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<h1>Clicky-Clicky<h1>
+<h1>Game-Clicky<h1>
 
 <h2>Overview</h2>
 <ul>
-  <li>The Clickster is a web game application where users click images  in order to earn points.  You win the game whenever you have clicked all 9 of the puppies.  The only catch is that the puppies move in their location with every click... 
+  <li>The gameclicky is a web game application where users click images  in order to earn points.  You win the game whenever you have clicked .  
 <h2>Technologies Used:</h2>
 <ul>
   <li>React.js- UI</li>
@@ -21,7 +21,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <h2>The clickster can be found on Heroku <a href='https://nikitamehata23.github.io/gameclicky '>here</a></h2>
 
 
-<footer>The Clickster Designer and Programmer: Heather Mathies with help from UCF Bootcamp and her friends.</footer>
+<footer>The Clickygame Designer and Programmer: Heather Mathies with help from UCF Bootcamp and her friends.</footer>
 
 ### `npm start`
 
